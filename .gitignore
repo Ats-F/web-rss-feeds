@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode/
+.idea/
+*.log
+check_target.py
+inspect_article.py
